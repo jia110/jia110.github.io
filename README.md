@@ -15,3 +15,24 @@
 最终解释权：本免责声明的最终解释权归声明者所有。
 解释权说明：本声明中的“最终解释权”条款并非意在单方面施加权利或霸王条款，而是为了在可能出现的模糊或争议情况下提供清晰的指导和解释。其目的是确保本声明的内容和意图得到恰当和公正的实施，同时为用户提供更明确的方向和帮助。
 在使用该文件夹及其内容前，请确保已仔细阅读并完全理解上述声明和法律参考。您的使用行为将被视为对上述内容的完全接受。
+
+
+
+
+The resources on this website are sourced from the internet and are only for learning and communication purposes. They are not intended for commercial use< All mirror sites are collected from the internet. Please protect your privacy and do not log in to your Google account on mirror sites. We do not assume any responsibility or joint liability!
+		
+1. The mirror site is severely blocked and difficult to survive. Please cherish it
+		
+2. If there are any invalid or recommended mirror sites, please submit an issue and I will update it promptly.
+		
+3. For academic research purposes only. If you have any questions, please contact wechat: GOD-9188
+		
+Disclaimer: Purpose of use: All resources in this folder and its subdirectories are for learning and research purposes only. It is intended to provide references and materials for academic and research personnel, and is not applicable for any other purpose.
+Non commercial and illegal use: It is strictly prohibited to use this folder and its contents for any commercial or illegal purposes. Users shall bear full responsibility for any legal consequences arising from violation of this regulation.
+Source and Copyright: All resource information in this folder directory is sourced from the internet. If there are any disputes or issues regarding copyright, please contact the original author or rights holder. This statement is not related to copyright issues and does not assume any responsibility.
+Processing after downloading: Please note that after downloading any resources, you must completely delete them from your computer or storage device within 24 hours, whether they are software, documents, or other forms of data.
+Support genuine: If you find a program or resource helpful to you or if you like it, please actively support genuine. Purchasing and registering genuine software not only provides official support and updates, but also offers more features and services, such as genuine artificial intelligence services.
+Legal reference: According to Article 17 of the "Regulations on the Protection of Computer Software" (implemented on January 1, 2002), in order to learn and study the design ideas and principles contained in software, software can be used by installing, displaying, transmitting or storing software without permission from the software copyright owner and without payment of remuneration. In view of this, we strongly recommend that users follow the above regulations when using this folder and its contents, and ensure that their behavior is limited to learning and researching the design ideas and principles within the software.
+Final interpretation right: The final interpretation right of this disclaimer belongs to the declarant.
+Explanation of Interpretation Right: The "final interpretation right" clause in this statement is not intended to unilaterally impose rights or overbearing clauses, but to provide clear guidance and interpretation in case of possible ambiguity or disputes. The purpose is to ensure that the content and intent of this statement are appropriately and fairly implemented, while providing users with clearer direction and assistance.
+Before using this folder and its contents, please ensure that you have carefully read and fully understood the above statement and legal references. Your usage behavior will be deemed as full acceptance of the above content.
