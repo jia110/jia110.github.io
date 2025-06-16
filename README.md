@@ -1,8 +1,8 @@
-本站资源来源于网络，仅供学习交流使用，勿用于违规违法用途。<br/>所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号，本站不承担任何责任及连带责任！
+本站资源来源于网络，仅供学习交流使用，勿用于违规违法用途。<br/>所有订阅节点均搜集自网络，请保护好你的隐私，请勿在节点中登录任何账号，本站不承担任何责任及连带责任！
 		
-		1.镜像站封锁严重，存活不易，请珍惜
+		1.节点封锁严重，存活不易，请珍惜
 		
-		2.如有失效或镜像站推荐，请提交issue，我会及时更新。
+		2.如有失效或免费节点推荐，请提交issue，我会及时更新。
 		
 		3.仅供学术研究使用 如有疑问 请联系wechat:GOD-9188
 		
@@ -19,11 +19,11 @@
 
 
 
-The resources on this website are sourced from the internet and are only for learning and communication purposes. They are not intended for commercial use< All mirror sites are collected from the internet. Please protect your privacy and do not log in to your Google account on mirror sites. We do not assume any responsibility or joint liability!
+The resources on this website are sourced from the internet and are only for learning and communication purposes. Do not use them for any illegal or irregular purposes. All subscription nodes are collected from the network. Please protect your privacy and do not log in to any account in the nodes. This website does not assume any responsibility or joint liability!
 		
-1. The mirror site is severely blocked and difficult to survive. Please cherish it
+1. The node is severely blocked and survival is not easy. Please cherish it
 		
-2. If there are any invalid or recommended mirror sites, please submit an issue and I will update it promptly.
+If there are any invalid or free node recommendations, please submit an issue and I will update it promptly.
 		
 3. For academic research purposes only. If you have any questions, please contact wechat: GOD-9188
 		
