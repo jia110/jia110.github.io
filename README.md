@@ -4,7 +4,7 @@
 		
 		2.如有失效或免费节点推荐，请提交issue，我会及时更新。
 		
-		3.仅供学术研究使用 如有疑问 请联系wechat:GOD-9188
+	
 		
 免责声明： 使用目的：该文件夹及其子目录下的所有资源仅供学习和研究使用。其旨在为学术和研究人员提供参考和资料，任何其他目的均不适用。
 非商业与非法用途：严禁将此文件夹及其内容用于任何商业或非法用途。对于因违反此规定而产生的任何法律后果，用户需自行承担全部责任。
@@ -25,7 +25,7 @@ The resources on this website are sourced from the internet and are only for lea
 		
 If there are any invalid or free node recommendations, please submit an issue and I will update it promptly.
 		
-3. For academic research purposes only. If you have any questions, please contact wechat: GOD-9188
+
 		
 Disclaimer: Purpose of use: All resources in this folder and its subdirectories are for learning and research purposes only. It is intended to provide references and materials for academic and research personnel, and is not applicable for any other purpose.
 Non commercial and illegal use: It is strictly prohibited to use this folder and its contents for any commercial or illegal purposes. Users shall bear full responsibility for any legal consequences arising from violation of this regulation.
